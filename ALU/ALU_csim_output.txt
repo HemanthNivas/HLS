@@ -1,0 +1,23 @@
+INFO: [SIM 2] *************** CSIM start ***************
+INFO: [SIM 4] CSIM will launch GCC as the compiler.
+   Compiling ../../../ALU_test.cpp in debug mode
+   Compiling ../../../ALU.cpp in debug mode
+   Generating csim.exe
+a=5b=10outs=15 addition
+a=10b=5outs=5 subtraction
+a=10b=5outs=50 Multiplication
+a=10b=5outs=2 Division
+a=10b=5outs=0 Modulo %
+a=10b=5outs=0 <<
+a=10b=5outs=0 >>
+a=10b=5outs=5 b
+a=10b=5outs=0 and
+a=10b=5outs=15 or
+a=10b=5outs=15 xor
+a=10b=5outs=0 xnor
+a=10b=5outs=10 a
+a=10b=5outs=5 ~a
+a=10b=5outs=10 ~b
+a=10b=5outs=0 0
+INFO: [SIM 1] CSim done with 0 errors.
+INFO: [SIM 3] *************** CSIM finish ***************
